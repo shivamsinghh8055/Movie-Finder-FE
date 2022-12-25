@@ -1,0 +1,32 @@
+.blueCards {
+    display: flex;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.blueCardsWrapper {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    background-color: blue;
+    margin: 1rem;
+}
+
+.text {
+    color: white;
+}
+
+.whiteCardWrapper {
+    background-color: red;
+    width: 9rem;
+    padding: 2rem;
+    margin-left: 1rem;
+}
+
+.threeWhiteCardWrapper {
+    display: flex;
+    margin-top: 1rem;
+}
